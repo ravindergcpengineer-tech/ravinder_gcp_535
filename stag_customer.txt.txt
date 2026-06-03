@@ -1,3 +1,3 @@
-create table customer_stage
+create table customer_stage_new
 (
 );
